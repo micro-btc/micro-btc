@@ -2,7 +2,11 @@
 
 micro-btc is a minimal JavaScript/TypeScript library for Bitcoin.
 
-### Usage
+## Documentation
+
+[Overview](https://www.micro-btc.dev/) · [Get Started](https://www.micro-btc.dev/docs/getting-started)
+
+## Usage
 
 ```bash
 npm install micro-btc-signer
@@ -12,10 +16,6 @@ npm install micro-btc-signer
 import * as btc from 'micro-btc'
 ```
 
-### Documentation
-
-[Overview](https://www.micro-btc.dev/) · [Get Started](https://www.micro-btc.dev/docs/getting-started)
-
-### License
+## License
 
 MIT (c) Citizen Technologies Inc., see LICENSE for details.
