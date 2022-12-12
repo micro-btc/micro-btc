@@ -1,0 +1,37 @@
+{
+  "name": "micro-btc",
+  "version": "0.1.0",
+  "description": "micro-btc is a minimal JavaScript/TypeScript library for Bitcoin.",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "index.d.ts.map",
+    "index.ts"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "author": "Ryan Shea",
+  "license": "MIT",
+  "homepage": "https://github.com/shea256/micro-btc#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shea256/micro-btc.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "lint": "prettier --check index.ts",
+    "test": "node test/index.test.js",
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "taproot",
+    "schnorr",
+    "transaction"
+  ],
+  "bugs": {
+    "url": "https://github.com/shea256/micro-btc/issues"
+  }
+}
