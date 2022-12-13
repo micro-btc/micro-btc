@@ -9,7 +9,7 @@ micro-btc is a minimal JavaScript/TypeScript library for Bitcoin.
 ## Usage
 
 ```bash
-npm install micro-btc-signer
+npm install micro-btc
 ```
 
 ```typescript
